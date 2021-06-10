@@ -7,8 +7,8 @@ from pykeyboard import PyKeyboard
 
 count = 0
 # If used, this program will route your towards my Github lol.
-urls = ['https://github.com/EdgarCastillo101/Data-Structures-Algorithms', 'https://github.com/EdgarCastillo101',
-        'hhttps://github.com/EdgarCastillo101/Python-Spammer']
+urls = ['https://github.com/hellocastillo/Data-Structures-Algorithms', 'https://github.com/hellocastillo',
+        'hhttps://github.com/hellocastillo/Python-Spammer']
 k = PyKeyboard()
 
 while count < 100:
